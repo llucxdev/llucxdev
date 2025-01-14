@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **llucxdev/llucxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+{
+  "name": "Lluc Puertes Arrue",
+  "age": 20,
+  "location": "Valencia, Spain",
+  "email": "puertesarrue@gmail.com",
+  "code": "java, html, css, javascript, typescript",
+  "thechnologies": {
+    "frontEnd": {
+      "typescript": "Angular, React",
+      "css": "Bootstrap, Tailwind"
+    },
+    "backEnd": {
+      "java": "SpringBoot"
+    },
+    "databases": "MySQL, MongoDB, PostgreSQL, Hibernate, Prisma"
+  },
+  "currentOccupation": "studying and carrying out my personal projects. open to new job opportunities"
+}
