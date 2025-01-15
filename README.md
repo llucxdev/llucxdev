@@ -17,20 +17,24 @@ Here are some ideas to get you started:
 
 ```json
 {
-    "name": "Lluc Puertes Arrue",
-    "age": 20,
-    "location": "Valencia, Spain",
-    "email": "puertesarrue@gmail.com",
-    "code": "java, html, css, javascript, typescript",
-    "thechnologies": {
-        "frontEnd": {
-            "typescript": "Angular, React",
-            "css": "Bootstrap, Tailwind"
-        },
-        "backEnd": {
-            "java": "SpringBoot"
-        },
-        "databases": "MySQL, MongoDB, PostgreSQL, Hibernate, Prisma"
+  "name": "Lluc Puertes Arrue",
+  "age": 20,
+  "location": "Valencia, Spain",
+  "email": "puertesarrue@gmail.com",
+  "skills": ["Java", "HTML", "CSS", "JavaScript", "TypeScript", "SQL"],
+  "technologies": {
+    "frontEnd": {
+      "frameworks": ["Angular", "React"],
+      "css": ["Bootstrap", "Tailwind"]
     },
-    "currentOccupation": "studying and carrying out my personal projects. open to new job opportunities"
+    "backEnd": {
+      "languages": ["Java", "NodeJS"],
+      "frameworks": ["SpringBoot"]
+    },
+    "databases": ["MySQL", "MongoDB", "PostgreSQL"],
+    "orm": ["Hibernate", "Prisma"],
+    "tools": ["Linux", "Windows", "Git", "VSCode"]
+  },
+  "currentOccupation": "Studying and carrying out personal projects. Open to new job opportunities."
 }
+
