@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://llucx.is-a.dev/" target="_blank">
-  <img src="https://llucx.is-a.dev/favicon.ico" alt="Visit My Portfolio" width="217" height="60">
+  <img src="https://llucx.is-a.dev/favicon.ico" alt="Visit My Portfolio" width="60" height="60">
 </a>
 
 <a href="https://buymeacoffee.com/llucxdev" target="_blank">
